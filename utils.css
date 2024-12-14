@@ -1,0 +1,36 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-black {
+    background-color: black;
+}
+.mx-auto{
+    margin:auto;
+}
+
+.flex{
+    display:flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+    justify-content: center;
+}
+
+.color{
+    background-color: aqua;
+}
+
+.color1{
+    background-color: yellow;
+    color:black;
+}
+
+.color2{
+    background-color: rgb(3, 253, 3);
+}
